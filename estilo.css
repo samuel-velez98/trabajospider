@@ -1,0 +1,18 @@
+body {
+  background-color: royalblue;
+}
+h1 {
+  text-align: center;
+}
+canvas {
+  background-color: red;
+  position: relative;
+  left: 35px;
+  border: 2px solid whitesmoke;
+}
+.ps4 {
+  background-color: black;
+  position: relative;
+  left: 30px;
+  border: 20px solid black;
+}
